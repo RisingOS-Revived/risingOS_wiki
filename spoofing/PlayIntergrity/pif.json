@@ -1,15 +1,15 @@
 {
     "TYPE": "user",
     "TAGS": "release-keys",
-    "ID": "BP11.241121.013",
+    "ID": "BP22.250103.008",
     "BRAND": "google",
-    "DEVICE": "comet",
-    "FINGERPRINT": "google/comet_beta/comet:15/BP11.241121.013/12873528:user/release-keys",
+    "DEVICE": "akita",
+    "FINGERPRINT": "google/akita_beta/akita:Baklava/BP22.250103.008/12932282:user/release-keys",
     "MANUFACTURER": "Google",
-    "MODEL": "Pixel 9 Pro Fold",
-    "PRODUCT": "comet_beta",
+    "MODEL": "Pixel 8a",
+    "PRODUCT": "akita_beta",
     "RELEASE": "15",
-    "SECURITY_PATCH": "2025-01-06",
+    "SECURITY_PATCH": "2025-01-05",
     "DEVICE_INITIAL_SDK_INT": 35,
     "DEBUG": false
   }
