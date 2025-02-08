@@ -3,13 +3,13 @@
     "TAGS": "release-keys",
     "ID": "BP22.250103.008",
     "BRAND": "google",
-    "DEVICE": "akita",
-    "FINGERPRINT": "google/akita_beta/akita:Baklava/BP22.250103.008/12932282:user/release-keys",
+    "DEVICE": "cheetah",
+    "FINGERPRINT": "google/cheetah_beta/cheetah:Baklava/BP22.250103.008/12932282:user/release-keys",
     "MANUFACTURER": "Google",
-    "MODEL": "Pixel 8a",
-    "PRODUCT": "akita_beta",
+    "MODEL": "Pixel 7 Pro",
+    "PRODUCT": "cheetah_beta",
     "RELEASE": "15",
-    "SECURITY_PATCH": "2025-01-05",
+    "SECURITY_PATCH": "",
     "DEVICE_INITIAL_SDK_INT": 35,
     "DEBUG": false
   }
